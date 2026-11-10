@@ -1,0 +1,334 @@
+{
+ "meta": {
+  "name": "Pixel Space Shooter Sprites",
+  "frame_size": 32,
+  "columns": 8,
+  "rows": 6,
+  "image": "spritesheet.png",
+  "count": 46
+ },
+ "frames": {
+  "ship_01": {
+   "x": 0,
+   "y": 0,
+   "w": 32,
+   "h": 32,
+   "category": "player"
+  },
+  "ship_02": {
+   "x": 32,
+   "y": 0,
+   "w": 32,
+   "h": 32,
+   "category": "player"
+  },
+  "ship_03": {
+   "x": 64,
+   "y": 0,
+   "w": 32,
+   "h": 32,
+   "category": "player"
+  },
+  "ship_04": {
+   "x": 96,
+   "y": 0,
+   "w": 32,
+   "h": 32,
+   "category": "player"
+  },
+  "ship_05": {
+   "x": 128,
+   "y": 0,
+   "w": 32,
+   "h": 32,
+   "category": "player"
+  },
+  "ship_06": {
+   "x": 160,
+   "y": 0,
+   "w": 32,
+   "h": 32,
+   "category": "player"
+  },
+  "enemy_01": {
+   "x": 192,
+   "y": 0,
+   "w": 32,
+   "h": 32,
+   "category": "enemy"
+  },
+  "enemy_02": {
+   "x": 224,
+   "y": 0,
+   "w": 32,
+   "h": 32,
+   "category": "enemy"
+  },
+  "enemy_03": {
+   "x": 0,
+   "y": 32,
+   "w": 32,
+   "h": 32,
+   "category": "enemy"
+  },
+  "enemy_04": {
+   "x": 32,
+   "y": 32,
+   "w": 32,
+   "h": 32,
+   "category": "enemy"
+  },
+  "enemy_05": {
+   "x": 64,
+   "y": 32,
+   "w": 32,
+   "h": 32,
+   "category": "enemy"
+  },
+  "enemy_06": {
+   "x": 96,
+   "y": 32,
+   "w": 32,
+   "h": 32,
+   "category": "enemy"
+  },
+  "enemy_07": {
+   "x": 128,
+   "y": 32,
+   "w": 32,
+   "h": 32,
+   "category": "enemy"
+  },
+  "enemy_08": {
+   "x": 160,
+   "y": 32,
+   "w": 32,
+   "h": 32,
+   "category": "enemy"
+  },
+  "bullet_01": {
+   "x": 192,
+   "y": 32,
+   "w": 32,
+   "h": 32,
+   "category": "bullet"
+  },
+  "bullet_02": {
+   "x": 224,
+   "y": 32,
+   "w": 32,
+   "h": 32,
+   "category": "bullet"
+  },
+  "bullet_03": {
+   "x": 0,
+   "y": 64,
+   "w": 32,
+   "h": 32,
+   "category": "bullet"
+  },
+  "bullet_04": {
+   "x": 32,
+   "y": 64,
+   "w": 32,
+   "h": 32,
+   "category": "bullet"
+  },
+  "bullet_05": {
+   "x": 64,
+   "y": 64,
+   "w": 32,
+   "h": 32,
+   "category": "bullet"
+  },
+  "bullet_06": {
+   "x": 96,
+   "y": 64,
+   "w": 32,
+   "h": 32,
+   "category": "bullet"
+  },
+  "bullet_07": {
+   "x": 128,
+   "y": 64,
+   "w": 32,
+   "h": 32,
+   "category": "bullet"
+  },
+  "bullet_08": {
+   "x": 160,
+   "y": 64,
+   "w": 32,
+   "h": 32,
+   "category": "bullet"
+  },
+  "bullet_09": {
+   "x": 192,
+   "y": 64,
+   "w": 32,
+   "h": 32,
+   "category": "bullet"
+  },
+  "bullet_10": {
+   "x": 224,
+   "y": 64,
+   "w": 32,
+   "h": 32,
+   "category": "bullet"
+  },
+  "bullet_11": {
+   "x": 0,
+   "y": 96,
+   "w": 32,
+   "h": 32,
+   "category": "bullet"
+  },
+  "bullet_12": {
+   "x": 32,
+   "y": 96,
+   "w": 32,
+   "h": 32,
+   "category": "bullet"
+  },
+  "explosion_01": {
+   "x": 64,
+   "y": 96,
+   "w": 32,
+   "h": 32,
+   "category": "explosion"
+  },
+  "explosion_02": {
+   "x": 96,
+   "y": 96,
+   "w": 32,
+   "h": 32,
+   "category": "explosion"
+  },
+  "explosion_03": {
+   "x": 128,
+   "y": 96,
+   "w": 32,
+   "h": 32,
+   "category": "explosion"
+  },
+  "explosion_04": {
+   "x": 160,
+   "y": 96,
+   "w": 32,
+   "h": 32,
+   "category": "explosion"
+  },
+  "explosion_05": {
+   "x": 192,
+   "y": 96,
+   "w": 32,
+   "h": 32,
+   "category": "explosion"
+  },
+  "explosion_06": {
+   "x": 224,
+   "y": 96,
+   "w": 32,
+   "h": 32,
+   "category": "explosion"
+  },
+  "powerup_01": {
+   "x": 0,
+   "y": 128,
+   "w": 32,
+   "h": 32,
+   "category": "powerup"
+  },
+  "powerup_02": {
+   "x": 32,
+   "y": 128,
+   "w": 32,
+   "h": 32,
+   "category": "powerup"
+  },
+  "powerup_03": {
+   "x": 64,
+   "y": 128,
+   "w": 32,
+   "h": 32,
+   "category": "powerup"
+  },
+  "powerup_04": {
+   "x": 96,
+   "y": 128,
+   "w": 32,
+   "h": 32,
+   "category": "powerup"
+  },
+  "powerup_05": {
+   "x": 128,
+   "y": 128,
+   "w": 32,
+   "h": 32,
+   "category": "powerup"
+  },
+  "powerup_06": {
+   "x": 160,
+   "y": 128,
+   "w": 32,
+   "h": 32,
+   "category": "powerup"
+  },
+  "asteroid_01": {
+   "x": 192,
+   "y": 128,
+   "w": 32,
+   "h": 32,
+   "category": "asteroid"
+  },
+  "asteroid_02": {
+   "x": 224,
+   "y": 128,
+   "w": 32,
+   "h": 32,
+   "category": "asteroid"
+  },
+  "asteroid_03": {
+   "x": 0,
+   "y": 160,
+   "w": 32,
+   "h": 32,
+   "category": "asteroid"
+  },
+  "asteroid_04": {
+   "x": 32,
+   "y": 160,
+   "w": 32,
+   "h": 32,
+   "category": "asteroid"
+  },
+  "planet_01": {
+   "x": 64,
+   "y": 160,
+   "w": 32,
+   "h": 32,
+   "category": "planet"
+  },
+  "planet_02": {
+   "x": 96,
+   "y": 160,
+   "w": 32,
+   "h": 32,
+   "category": "planet"
+  },
+  "planet_03": {
+   "x": 128,
+   "y": 160,
+   "w": 32,
+   "h": 32,
+   "category": "planet"
+  },
+  "planet_04": {
+   "x": 160,
+   "y": 160,
+   "w": 32,
+   "h": 32,
+   "category": "planet"
+  }
+ }
+}
